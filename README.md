@@ -85,6 +85,7 @@ This repository will include:
 
 ## Purpose
 
+<<<<<<< HEAD
 This project was created as a system analysis and UML design portfolio project for industrial attachment and future software implementation.
 
 
@@ -141,3 +142,6 @@ Explanation:
 
 Explanation:
 - [State Diagram Documentation](diagrams/state-diagram.md)
+=======
+I created this project as a system analysis and UML design portfolio project for industrial attachment and future software implementation.
+>>>>>>> 4b54d97dc67ba1ca0bc9be42f62d6dbfe8ee69ba

@@ -86,3 +86,58 @@ This repository will include:
 ## Purpose
 
 This project was created as a system analysis and UML design portfolio project for industrial attachment and future software implementation.
+
+
+
+
+
+## Documentation
+
+### System Documentation
+- [Introduction](docs/introduction.md)
+- [Requirements](docs/requirements.md)
+- [Database Design](docs/database-design.md)
+- [System Architecture](docs/system-architecture.md)
+- [Future Improvements](docs/future-improvements.md)
+
+---
+
+## UML Diagrams
+
+### Use Case Diagram
+![Use Case Diagram](diagrams/use-case-diagram.png)
+
+Explanation:
+- [Use Case Diagram Documentation](diagrams/use-case-diagram.md)
+
+---
+
+### Class Diagram
+![Class Diagram](diagrams/class-diagram.png)
+
+Explanation:
+- [Class Diagram Documentation](diagrams/class-diagram.md)
+
+---
+
+### Sequence Diagram
+![Sequence Diagram](diagrams/sequence-diagram.png)
+
+Explanation:
+- [Sequence Diagram Documentation](diagrams/sequence-diagram.md)
+
+---
+
+### Activity Diagram
+![Activity Diagram](diagrams/activity-diagram.png)
+
+Explanation:
+- [Activity Diagram Documentation](diagrams/activity-diagram.md)
+
+---
+
+### State Diagram
+![State Diagram](diagrams/state-diagram.png)
+
+Explanation:
+- [State Diagram Documentation](diagrams/state-diagram.md)

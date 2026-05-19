@@ -85,4 +85,4 @@ This repository will include:
 
 ## Purpose
 
-This project was created as a system analysis and UML design portfolio project for industrial attachment and future software implementation.
+I created this project as a system analysis and UML design portfolio project for industrial attachment and future software implementation.
